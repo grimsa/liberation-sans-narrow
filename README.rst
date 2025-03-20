@@ -38,8 +38,8 @@ Current Release
 
 
 
-+ Binary (ttf): `liberation-fonts-ttf-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.1.tar.gz>`_
-+ Source (sfd): `liberation-fonts-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.4.tar.gz>`_
++ Binary (ttf): `liberation-fonts-ttf-1.07.6.tar.gz <https://github.com/liberationfonts/liberation-sans-narrow/files/2579431/liberation-narrow-fonts-ttf-1.07.6.tar.gz>`_
++ Source (sfd): `liberation-fonts-1.07.6.tar.gz <https://github.com/liberationfonts/liberation-sans-narrow/files/2579430/liberation-narrow-fonts-1.07.6.tar.gz>`_
 
 
 This release includes a source tarball also so it is easy to build the
@@ -55,8 +55,8 @@ Previous Releases
 
 
 
-+ Binary (ttf): `liberation-fonts-ttf-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.0.tar.gz>`_
-+ Source (sfd): `liberation-fonts-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.3.tar.gz>`_
++ Binary (ttf): `liberation-fonts-ttf-1.07.5.tar.gz <https://github.com/liberationfonts/liberation-sans-narrow/releases/download/1.07.5/liberation-narrow-fonts-ttf-1.07.5.tar.gz>`_
++ Source (sfd): `liberation-fonts-1.07.5.tar.gz <https://github.com/liberationfonts/liberation-sans-narrow/releases/download/1.07.5/liberation-narrow-fonts-1.07.5.tar.gz>`_
 
 
 Source and TrueType archives are available at `<https://releases.pagure.org/liberation-fonts/>`_.
